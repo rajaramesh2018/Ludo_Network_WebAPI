@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludo_Network_WebAPI", "Ludo_Network_WebAPI\Ludo_Network_WebAPI.csproj", "{93BC4F52-9021-4359-80AF-0FB3937F843F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BC4F52-9021-4359-80AF-0FB3937F843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BC4F52-9021-4359-80AF-0FB3937F843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BC4F52-9021-4359-80AF-0FB3937F843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BC4F52-9021-4359-80AF-0FB3937F843F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DF5724-6F84-4DB1-A19E-D42A82FE261D}
+	EndGlobalSection
+EndGlobal
